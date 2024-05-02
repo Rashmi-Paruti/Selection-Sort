@@ -1,5 +1,5 @@
 # Selection-Sort
-DAA program1 in java-
+DAA program1 in java & c -
 
 Sort a given set of n integer elements using Selection Sort method and compute its time 
 complexity. Run the program for varied values of n> 5000 and record the time taken to sort. 
